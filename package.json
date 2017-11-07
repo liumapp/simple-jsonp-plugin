@@ -1,0 +1,23 @@
+{
+  "name": "simple-jsonp-plugin",
+  "version": "1.0.0",
+  "description": "供simple-jsonp项目使用的vue插件",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liumapp/simple-jsonp-plugin.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-plugin"
+  ],
+  "author": "liumapp <liumapp.com@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liumapp/simple-jsonp-plugin/issues"
+  },
+  "homepage": "https://github.com/liumapp/simple-jsonp-plugin#readme"
+}
